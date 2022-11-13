@@ -37,18 +37,5 @@ public class Task_4 {
 
         }
         return result.toString();
-        // int count = 0;
-        // for (char item : s.toCharArray()) {
-        // if (item == '(') {
-        // if (++count > 1) {
-        // result.append(item);
-        // }
-        // } else if (item == ')') {
-        // if (--count >= 1) {
-        // result.append(item);
-        // }
-        // }
-        // }
-        // return result.toString();
     }
 }
